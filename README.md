@@ -4,7 +4,9 @@
 
 The Fresnel integrals S(x) and C(x) are two transcendental functions named after Augustin-Jean Fresnel that are used in optics and are closely related to the error function (erf). They arise in the description of near-field Fresnel diffraction phenomena and are defined through the following integral representations:
 
-$$ S(x) = \int_0^x \sin(t^2) dt \;,\;\;\;\;\; C(x) = \int_0^x \cos(t^2) dt $$
+$$ S(x) = \int_0^x \sin(t^2) dt $$
+
+$$ C(x) = \int_0^x \cos(t^2) dt $$
 
 [wikipedia](https://en.wikipedia.org/wiki/Fresnel_integral)
 
@@ -53,7 +55,9 @@ Use Fresnel integral derivatives to approximate Fresnal integrals.
 
 ### Fresnel Integrals Derivatives
 
-$$ S'(x) = \sin(\frac{\pi x^2}{2}) \;,\;\;\;\;\; C'(x) =  \cos(\frac{\pi x^2}{2}) $$
+$$ S'(x) = \sin(\frac{\pi x^2}{2}) $$
+
+$$ C'(x) = \cos(\frac{\pi x^2}{2}) $$
 
 ### Approximations
 
