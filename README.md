@@ -1,5 +1,7 @@
 # Fresnel Approximation
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasAstley/Fresnel_integral_approximation/blob/main/Fresnel_integral_approximation.ipynb)
+
 ## Fresnel Integrals
 
 The Fresnel integrals S(x) and C(x) are two transcendental functions named after Augustin-Jean Fresnel that are used in optics and are closely related to the error function (erf). They arise in the description of near-field Fresnel diffraction phenomena and are defined through the following integral representations:
